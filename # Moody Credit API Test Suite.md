@@ -1,3 +1,4 @@
+![API Tests](https://github.com/Farhod75/moody-api-postman-suite/actions/workflows/api-tests.yml/badge.svg)
 # Moody Credit API Test Suite
 
 Portfolio API test suite built by Farhod Elbekov.
